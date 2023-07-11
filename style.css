@@ -1,3 +1,73 @@
-body{
-    color: aqua;
+.body{
+    font-family: 'Lato', sans-serif;
+    font-family: 'Open Sans', sans-serif;
+}
+.btn-primary{
+    color: #FFF;
+    font-family: Lato;
+    font-size: 20px;
+    font-weight: 700;
+}
+
+.header{
+    background-color: rgba(229, 84, 115, 0.10);
+    background: ;
+    padding:150px;
+    margin: 50px
+
+}
+
+.banner{
+    display: flex;
+    height: 800px;
+ 
+ 
+}
+.banner flower-pic{
+    width: 600px;
+
+    
+}
+.banner-description{
+    margin-top: 10px;
+    color: rgba(39, 39, 39, 0.60);
+    font-size: 40px;
+    font-weight: 400;
+ 
+}
+.banner-title{
+    color: #272727;
+    font-size: 80px;
+    font-weight: 800;
+    display: flex;
+    width: 700px;
+    margin: opx;
+
+}
+.banner-description{
+    color: rgba(39, 39, 39, 0.60);
+    font-size: 25px;
+    font-weight: 400;
+
+}
+.banner-contant{
+    max-width: 600px;
+}
+.banner .flower-pic{
+    width: 600px;
+    padding: 0;
+    margin-left: 1000px;
+    margin-bottom: 0px;
+}
+.btn-primary{
+    border-radius:5px;
+    background: #E55473;
+    border: 0;
+    color: #FFF;
+    font-size: 20px;
+    font-weight: 700;
+    padding: 18px 45px;
+  
+ 
+
 }
